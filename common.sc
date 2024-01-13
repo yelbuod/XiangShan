@@ -1,5 +1,5 @@
 /***************************************************************************************
-* Copyright (c) 2020-2021 YangYang, https://github.com/yelbuod
+* Copyright (c) 2024-2026 YangYang, https://github.com/yelbuod
 *
 * XiangShan is licensed under Mulan PSL v2.
 * You can use this software according to the terms and conditions of the Mulan PSL v2.
@@ -12,6 +12,7 @@
 *
 * See the Mulan PSL v2 for more details.
 ***************************************************************************************/
+
 import mill._
 import scalalib._
 
